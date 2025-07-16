@@ -1,0 +1,38 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is namaste react by Yuvraj",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Yuvraj Ghadi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvrajghadi/Namaste-React.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuvrajghadi/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/yuvrajghadi/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": {
+  "production": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "development": [
+    "last 1 chrome version",
+    "last 1 firefox version",
+    "last 1 safari version"
+  ]
+}
+
+}
