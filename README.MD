@@ -18,3 +18,6 @@
 - HTTPS
 - Tree Shaking - Remove Unused Code
 - Diff Dev and Production Bundales
+
+# Babel
+- Transpile JSX code to React code
