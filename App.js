@@ -13,7 +13,9 @@ const Title=() => (
 // component composition
 const Headingcomponent=() => (
   <div>
-    <Title />
+    {Title()}
+    <Title/>
+  <Title></Title>
     <h1 id="heading">Namaste React using JSX🚀</h1>
   </div>
 )
